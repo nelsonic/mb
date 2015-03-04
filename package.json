@@ -1,0 +1,25 @@
+{
+  "name": "mb",
+  "version": "1.0.0",
+  "description": "MasterBuilder CLI Tool #FTW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nelsonic/mb.git"
+  },
+  "keywords": [
+    "MasterBuilder",
+    "Build",
+    "Tool",
+    "CLI"
+  ],
+  "author": "@nelsonic <contact.nelsonic@gmail.com> (https://github.com/nelsonic)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsonic/mb/issues"
+  },
+  "homepage": "https://github.com/nelsonic/mb"
+}
